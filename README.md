@@ -20,14 +20,13 @@ Conditions for the achievement of the global target
 Agents perform more than 100 tasks using DDPG, a policy-based reinforcement learning method. A task is terminated if the reward exceeds 30.
 
 # introduction
-
-# introduction
 All my work was done on a GPU environment given by Udacity. Therefore, no new files or dependencies were installed in the development environment.
 
 
 # instruction
 
 <*> means optional step　　
+
 1.Open Continuous_Control.ipynb　　
 
 2.Load the library　　
