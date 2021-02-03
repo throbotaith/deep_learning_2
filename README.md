@@ -1,7 +1,7 @@
 # deep_learning_2
 
+It contains code,report,optimal weights
 
-Intro
 # Project Details
 
 Environment:
