@@ -20,7 +20,22 @@ Conditions for the achievement of the global target
 Agents perform more than 100 tasks using DDPG, a policy-based reinforcement learning method. A task is terminated if the reward exceeds 30.
 
 # introduction
-All my work was done on a GPU environment given by Udacity. Therefore, no new files or dependencies were installed in the development environment.
+All my work was done on a GPU environment given by Udacity. 
+1. Clone the [DRLND GitHub repository](https://github.com/udacity/deep-reinforcement-learning) . 
+
+2. Download the Unity environment below.
+
+1 Agent
+for Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Linux.zip)
+for Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher.app.zip)
+for Windows x32: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86.zip)
+for Windows x64: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/one_agent/Reacher_Windows_x86_64.zip)
+
+20 Agents
+for Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Linux.zip)
+for Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher.app.zip)
+for Windows x32: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip)
+for Windows x64: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86_64.zip)
 
 
 # instruction
